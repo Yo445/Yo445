@@ -1,5 +1,5 @@
 <div id="" align="center">
-  ![carpt](https://github.com/user-attachments/assets/2459b9e8-15fa-4144-b8af-fdd08f634a35)
+	![carpt](https://github.com/user-attachments/assets/0a86f873-1eea-4245-93ca-103cbbdf9380)
 </div>
 <h1 align="center">Hi 👋, I'm Yosef Ali </h1>
 <h3 align="center">A frontend developer</h3>
@@ -69,11 +69,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Yo445&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yo445&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-	
+</div>
 <br />
 <br />
 <hr>
 
 <img src="https://raw.githubusercontent.com/Yo445/Yo445/output/snake.svg" alt="Snake animation" />
-</div>
-<br>
+<br />
