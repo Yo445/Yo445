@@ -1,5 +1,5 @@
 <div id="" align="center">
-	![carpt](https://github.com/user-attachments/assets/0a86f873-1eea-4245-93ca-103cbbdf9380)
+<a href ="https://github.com/user-attachments/assets/0a86f873-1eea-4245-93ca-103cbbdf9380" target="_blank"></a>
 </div>
 <h1 align="center">Hi 👋, I'm Yosef Ali </h1>
 <h3 align="center">A frontend developer</h3>
