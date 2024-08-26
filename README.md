@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Yosef Ali </h1>
 <h3 align="center">A frontend developer</h3>
-<h4 align="center">Hi, my name is Yosef Ali, a creative and innovative developer with expertise in Frontend React.js, UI/UX Design sketches, Motion Graphics, and illustration. I also work on game development, teamwork, and collaboration, with a passion for Visual Arts. Seeking opportunities to collaborate on dynamic projects.</h4>
+<h4 align="center">Hello, this is Youssef Ali Mamdouh. 22 years old, I recently graduated from Helwan University with a degree in Computer Science, I'm a creative and innovative developer with expertise in Frontend React.js and making UI/UX Design sketches, making too a Motion Graphics and create amazing things with illustrature. doing some Games, having teamwork and collaporative, with a passion for Visual Arts. Seeking opportunities to collaborate on dynamic projects.</h4>
 
 <hr>
 
