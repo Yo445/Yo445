@@ -2,9 +2,9 @@
   <img src="https://github.com/user-attachments/assets/547d3c74-4639-4a2e-b883-4a3b09488e70" alt="Your Image" />
 </div>
 
-<h1 align="center">Hi 👋, I'm Yosef Ali </h1>
-<h3 align="center">A frontend developer</h3>
-<h4 align="center">Hello, this is Youssef Ali Mamdouh. 22 years old, I recently graduated from Helwan University with a degree in Computer Science, I'm a creative and innovative developer with expertise in Frontend React.js and making UI/UX Design sketches, making too a Motion Graphics and create amazing things with illustrature. doing some Games, having teamwork and collaporative, with a passion for Visual Arts. Seeking opportunities to collaborate on dynamic projects.</h4>
+<h1 align="center">Hi 👋, I'm Youssef Ali </h1>
+<h3 align="center">A Software Engineer</h3>
+<h4 align="center">I'm a Software Engineer with expertise in Web Development and making UI/UX Design sketches, making too a Motion Graphics and Game Development, having teamwork and collaporative, Seeking opportunities to collaborate on dynamic projects.</h4>
 
 <hr>
 
