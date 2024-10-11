@@ -70,6 +70,4 @@
 <hr>
 
 <!-- Snake Animation -->
-### Snake Animation
 
-<img src="https://raw.githubusercontent.com/Yo445/Yo445/output/snake.svg" alt="Snake animation" />
