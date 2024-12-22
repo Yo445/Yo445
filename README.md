@@ -3,8 +3,6 @@
   ![github-header-image](https://github.com/user-attachments/assets/8f93ee28-3bb3-428c-b2e7-007cf37be096)
 
 </div>
-
-<h1 align="center">Hi 👋, I'm Youssef Ali </h1>
 <h3 align="center">A Software Engineer</h3>
 <h4 align="center">I'm a Software Engineer with expertise in Web Development and making UI/UX Design sketches, making too a Motion Graphics and Game Development, having teamwork and collaporative, Seeking opportunities to collaborate on dynamic projects.</h4>
 
