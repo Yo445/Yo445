@@ -1,5 +1,7 @@
 <div id="" align="center">
-  <img src="https://github.com/user-attachments/assets/547d3c74-4639-4a2e-b883-4a3b09488e70" alt="Your Image" />
+  
+  ![github-header-image](https://github.com/user-attachments/assets/8f93ee28-3bb3-428c-b2e7-007cf37be096)
+
 </div>
 
 <h1 align="center">Hi 👋, I'm Youssef Ali </h1>
