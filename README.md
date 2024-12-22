@@ -30,7 +30,7 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
     <img width="12" />
-    <img src="(https://miro.medium.com/v2/resize:fit:828/format:webp/1*Klh1l7wkoG6PDPb9A5oCHQ.png)" height="40" alt="Angular logo" />
+    <img src="![ang](https://github.com/user-attachments/assets/abb68fe2-7d86-44f0-89ce-61a8f5757139)" height="40" alt="Angular logo" />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Native logo" />
     <img width="12" />
