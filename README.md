@@ -1,82 +1,56 @@
-<div id="" align="center">
-  <img src="https://github.com/user-attachments/assets/547d3c74-4639-4a2e-b883-4a3b09488e70" alt="Profile Image" />
-</div>
+<img src="https://raw.githubusercontent.com/Yo445/Yo445/output/snake.svg" alt="Snake animation" />
 
-<h1 align="center">Hi 👋, I'm Youssef Ali</h1>
-<h3 align="center">A Software Engineer</h3>
-<h4 align="center">
-  I'm a Software Engineer with expertise in Web Development, UI/UX Design, Motion Graphics, and Game Development. I thrive in collaborative environments and am always seeking opportunities to contribute to innovative projects.
-</h4>
-
-<hr>
-
-<!-- TECHS -->
-<h2 align="center">Skills</h2>
+###
 
 <div align="center">
-  <br>
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
-    <img width="12" />
-    <img src="![ang](https://github.com/user-attachments/assets/abb68fe2-7d86-44f0-89ce-61a8f5757139)" height="40" alt="Angular logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Native logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQL logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="Illustrator logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="After Effects logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="Unity logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="Blender logo" />
-  </div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Yo445&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yo445&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-<br />
-<br />
-<hr>
+###
 
-<!-- SOCIALS -->
-<h2 align="center">Contact Me</h2>
-<p align="center">
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/angular/DD0031" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/jira/0052CC" height="40" alt="jira logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
+</div>
+
+###
+
+<div align="center">
   <a href="https://www.linkedin.com/in/youssef-ali-840227217/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-</p>
-
-<hr>
-
-<!-- STATS -->
-<div align="center">
-  <h2 align="center">Stats</h2>
-  <h6>These stats reflect public repos only and do not include private projects for previous employers or clients.</h6>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Yo445&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="Stats graph" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yo445&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="Languages graph" />
-  </div>
 </div>
 
-<br />
-<br />
-<hr>
+###
 
-<!-- SNAKE ANIMATION -->
-<div align="center">
-  <img src="https://github.com/Yo445/Yo445/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+<p align="left">Hello World!!</p>
+
+###
