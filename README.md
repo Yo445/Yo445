@@ -1,6 +1,7 @@
 <div id="" align="center">
   
-  ![github-header-image](https://github.com/user-attachments/assets/8f93ee28-3bb3-428c-b2e7-007cf37be096)
+![github-header-image](https://github.com/user-attachments/assets/11abbe0a-3aaa-497a-84fa-16bba14102f4)
+
 
 </div>
 <h3 align="center">A Software Engineer</h3>
