@@ -58,22 +58,4 @@
   </a>
 </p>
 
-<hr>
-
-<!-- STATS -->
-
-<div align="center" margin="100px 0 0 0">
-  <h2 align="center">Stats</h2>
-  <h6 style="color:red">These stats are only for public repos. They don't show private stats on projects for previous employers and clients.</h6>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Yo445&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yo445&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-  </div>
-</div>
-
-<br />
-<br />
-<hr>
-
-<!-- Snake Animation -->
 
